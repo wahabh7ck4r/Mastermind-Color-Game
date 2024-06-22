@@ -40,9 +40,10 @@ If the secret code is `R G B Y` and your guess is `R B G Y`, the feedback will b
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/mastermind-game.git  ```
+   git clone https://github.com/yourusername/mastermind-game.git ```
+
 2. Navigate to the project directory 
- ```cd mastermind-game```
+ ```sh cd mastermind-game```  
 3 . run the game  
-```  python mastermind.py   ```
+```sh  python mastermind.py   ```
 
