@@ -44,7 +44,9 @@ If the secret code is `R G B Y` and your guess is `R B G Y`, the feedback will b
 
 2. Navigate to the project directory   
  ```sh
-   cd mastermind-game 
+   cd mastermind-game
+
+
 
 3. Run the Game 
 ```sh
